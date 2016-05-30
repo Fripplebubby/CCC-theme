@@ -1,0 +1,65 @@
+.book-navigation {
+  clear: both;
+	padding-top: 1em;
+	margin: 0 0 1em 0;
+}
+.book-navigation .nav {
+	border-top: 1px solid rgb(229, 229, 229);
+	margin-bottom: 3px;
+}
+.book-navigation .nav li{
+	list-style: disc outside none;
+	margin: 0 0 0 25px;
+}
+.book-navigation .page-links {
+	border-top: 1px solid rgb(229, 229, 229);
+}
+.book-navigation .page-links .page-previous{
+	text-align: left;
+	width: 42%;
+	display: block;
+	float: left;
+}
+.book-navigation .page-links .page-up{
+	margin: 0px 5%;
+	width: 4%;
+	display: block;
+	float: left;
+}
+.book-navigation .page-links .page-next{
+	text-align: right;
+	width: 42%;
+	display: block;
+	float: right;
+}
+
+ul.nav li.dropdown:hover > ul.dropdown-menu{
+    display: block !important;
+}
+ul.nav li.dropdown ul.dropdown-menu {
+  margin-top: 0;
+}
+
+#block-block-2 {
+	text-align: center;
+	color: #777; 
+}
+
+#navbar > div > div.navbar-collapse.collapse > nav > ul {
+	position: relative;
+	z-index: 2;
+}
+
+#navbar > div > div.navbar-collapse.collapse > nav > div {
+	position: relative;
+	z-index: 1;
+}
+
+body {
+	font-size: 16px;
+}
+
+ul#superfish-1 li {
+    display: inline;
+    margin-right: 2em;
+}

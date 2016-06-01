@@ -63,3 +63,11 @@ ul#superfish-1 li {
     display: inline;
     margin-right: 2em;
 }
+
+body.page-content-law-service div.panel-2col div.panel-col-last {
+    width: 30%;
+}
+
+body.page-content-law-service div.panel-2col div.panel-col-first {
+    width: 70%;
+}

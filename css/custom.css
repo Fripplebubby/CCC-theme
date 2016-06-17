@@ -40,11 +40,6 @@ ul.nav li.dropdown ul.dropdown-menu {
   margin-top: 0;
 }
 
-#block-block-2 {
-	text-align: center;
-	color: #777; 
-}
-
 #navbar > div > div.navbar-collapse.collapse > nav > ul {
 	position: relative;
 	z-index: 2;
@@ -70,4 +65,243 @@ body.page-content-law-service div.panel-2col div.panel-col-last {
 
 body.page-content-law-service div.panel-2col div.panel-col-first {
     width: 70%;
+}
+
+#topnav > div > div {
+	width: 100%;
+	margin-left: 15px;
+	margin-right: 15px;
+	min-height: 30px;
+    height: 30px;
+}
+
+#block-block-2 {
+	float: left;
+	color: white;
+	margin-top: 2px;
+}
+
+#block-bootstrap-languages-language { 
+	right: 35%;
+}
+
+#block-menu-menu-account-cart- {
+	float: right;
+	width: 300px;
+}
+
+#block-menu-menu-account-cart- > ul > li, #block-menu-menu-account-cart- > ul > li > a {
+	display: inline; 
+	color: white;
+}
+
+#block-menu-menu-account-cart- > ul {
+	padding-top: 2px;
+}
+
+#topnav {
+	margin-top: 0;
+	margin-bottom: 0;
+	width: 100%;
+  	max-width: 100%;
+  	background-image: url(http://chinaconceptcenter.com/sites/all/themes/chinatheme/css/gradient.jpg);
+  	min-height: 30px;
+  	max-height: 30px;
+}
+
+#topnav > div {
+	margin: auto; 
+	height: 30px;
+    min-height: 30px;
+}
+
+#block-bootstrap-languages-language > div.btn-group > button {
+	background-color: white; 
+	border-color: whitesmoke; 
+}
+
+#block-bootstrap-languages-language > div.btn-group.open > button {
+	background-color: whitesmoke; 
+	border-color: white;
+}
+
+#block-bootstrap-languages-language > div.btn-group > button > span.caret {
+	color: black; 
+}
+
+#botnav {
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: white;
+ 	border-color: white;
+}
+
+#botnav > div > div > a.name.navbar-brand {
+	color: black;
+	float: none;
+}
+
+div > div.panel-display.panel-2col-bricks.clearfix > div.center-wrapper,
+#block-system-main > div > div:nth-child(2) {
+	max-width: 630px;
+	margin: auto;
+}
+
+body.page-homepage article.node.node-page.clearfix > div > div > div > p {
+	text-align: center;
+}
+
+#botnav > div > div > div > nav > ul.menu.nav.navbar-nav.secondary {
+	display: inline-block;
+	float: none;
+} 
+#botnav > div > div > div > nav > span > img {
+	display: block;
+	margin: auto;
+}
+
+#botnav > div > div > div > nav > span {
+	display: inline-block;
+}
+
+#botnav > div > div > div > nav > span > a {
+	font-size: 0.75em;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	float: none;
+}
+
+#botnav > div > div > div > nav > ul:nth-child(1) {
+	display: inline-block;
+	float: none;
+}
+
+#botnav > div > div > div > nav {
+	text-align: center;
+}
+
+#botnav .navbar-nav {
+	position: relative;
+	bottom: 25px;
+}
+
+#botnav .nav > li {
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+	font-size: 1.3em;
+}
+
+.navbar-brand {
+	height: auto;
+}
+
+ul.language-switcher-locale-url {
+	display: inline-block;
+	margin-top: 2px;
+}
+
+.language-switcher-locale-url li {
+	list-style: none;
+	display: inline;
+}
+
+.language-switcher-locale-url li a {
+	color: white;
+}
+
+section#block-locale-language {
+	float: right;
+	margin-right: 50px;
+}
+
+span.logoname {
+	position: relative;
+    top: -10px;
+    background-color: white;
+    padding-top: 10px;
+    border-radius: 15px;
+    min-width: 139px;
+}
+
+div.homepage-title {
+	background-image: url(http://chinaconceptcenter.com/sites/all/themes/chinatheme/css/title_flag.png);
+	background-repeat: repeat-y;
+	height: 64px;
+	border-bottom: medium solid #346ca7;
+	max-width: 630px;
+    margin: auto;
+    color: white;
+    padding-top: 10px;
+    font-size: 2em;
+}
+
+div.homepage-title.zh {
+	padding-left: 25px;
+}
+
+article.node.node-page > div > div > div > h3 {
+	text-align: center;
+    background-color: #ebebeb;
+    border-bottom: medium solid #346ca7;
+    margin-top: 0;
+}
+
+div.panel-display.panel-2col-bricks.clearfix > div.panel-panel.panel-col-top > div > div.panel-pane.pane-custom.pane-1 > div {
+	text-align: center;
+}
+
+body.page-homepage article.node.node-page.clearfix {
+	width: 294px;
+}
+
+body.page-homepage article.node.node-page.clearfix p {
+	margin-bottom: 0;
+}
+
+body.page-homepage div > div.panel-display.panel-2col-bricks.clearfix > div:nth-child(2) > div.panel-panel.panel-col-first,
+#block-system-main > div > div:nth-child(2) > div.panel-panel.panel-col-first {
+	width: 300px;
+	margin-right: 15px;
+}
+
+body.page-homepage div > div.panel-display.panel-2col-bricks.clearfix > div:nth-child(2) > div.panel-panel.panel-col-last,
+#block-system-main > div > div:nth-child(2) > div.panel-panel.panel-col-last {
+	width: 300px;
+	margin-left: 15px;
+}
+
+div.panel-panel.panel-col-first > div > div.panel-pane.pane-views.pane-case-studies > h2,
+div.panel-panel.panel-col-last > div > div.panel-pane.pane-views.pane-news > h2
+ {
+	background-image: url(http://chinaconceptcenter.com/sites/all/themes/chinatheme/css/title_flag.png);
+    background-repeat: repeat-y;
+    height: 64px;
+    border-bottom: medium solid #346ca7;
+    max-width: 294px;
+    margin: auto;
+    color: white;
+    padding-top: 15px;
+    font-size: 1.75em;
+}
+
+div.panel-panel.panel-col-first > div > div.panel-pane.pane-views.pane-case-studies > h2 {
+	padding-left: 5px; 
+}
+
+div.panel-panel.panel-col-last > div > div.panel-pane.pane-views.pane-news > h2 {
+	padding-left: 35px; 
+}
+
+body.page-homepage .table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: white;
+}
+
+body.page-homepage .table > thead > tr > th, 
+body.page-homepage .table > tbody > tr > th, 
+body.page-homepage .table > tfoot > tr > th, 
+body.page-homepage .table > thead > tr > td,
+body.page-homepage .table > tbody > tr > td, 
+body.page-homepage .table > tfoot > tr > td {
+	border-top: none;
 }
